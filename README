@@ -1,0 +1,11 @@
+To Run McClamma_Assignment2 :
+	1. Open McClamma_Assignment2 project in Eclipse
+	2. Open src > (default package) in project explorer
+	3. Select McClammaAssingment2A.java to open the file in the editor
+	4. Click the run button in eclipse (or press Ctrl + F11)
+	
+	To run McClammaAssignment2B.java select it from the Project Explorer
+	to open the file in the editor, then repeat step 4 with the
+	McClammaAssignment2B.java tab selected in the editor (or use
+	the drop down arrow on the run button to select McClammaAssignement2B.java)
+	
